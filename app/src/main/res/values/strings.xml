@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CicloVida</string>
+    <string name="activity_a_label">Atividade A</string>
+    <string name="btn_start_b_label">Iniciar B</string>
+    <string name="btn_start_c_label">Iniciar C</string>
+    <string name="btn_finish_a_label">Terminar A</string>
+    <string name="btn_start_label">Diálogo</string>
+    <string name="Activity_status">Status da Atividade</string>
+    <string name="lifecycle_method_list">Lista de métodos do Ciclo de Vida</string>
+    <string name="dialog_text">Diálogo Simples</string>
+    <string name="activity_dialog_label">Fechar</string>
+    <string name="btn_finish_dialog_label">Fechar</string>
+    <string name="on_create">on_create</string>
+    <string name="on_Start">on_Start</string>
+    <string name="on_Restart">on_Restart</string>
+    <string name="on_Resume">on_Resume</string>
+    <string name="on_Pause">on_Pause</string>
+    <string name="on_Stop">on_Stop</string>
+    <string name="on_Destroy">on_Destroy</string>
+    <string name="activity_a">activity_a</string>
+    <string name="activity_b">activity_b</string>
+    <string name="activity_b_label">Atividade B</string>
+    <string name="btn_start_a_label">Iniciar A</string>
+    <string name="btn_finish_b_label">Terminar B</string>
+    <string name="activity_c">activity_c</string>
+    <string name="activity_c_label">Atividade C</string>
+    <string name="btn_finish_c_label">Terminar C</string>
+</resources>
